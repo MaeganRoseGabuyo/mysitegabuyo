@@ -106,6 +106,12 @@ $challenge = '<h1 style="font-weight: bold; font-size: 36px;">Challenge 1: Sum o
         </div>
     </div>
 
+        <!-- Print/Display the output 3 with output 2 -->
+        <div style="border: 5px solid pink; padding:5px; text-align:center; height:65px;font-family: Arial, sans-serif; font-size: 33px; font-weight: normal;">
+            <h2><?= $output4 ?></h2>
+        </div>
+    </div>
+
 
 
 </div>
